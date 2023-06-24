@@ -37,9 +37,9 @@ The code for the visualization parameter L.
 
 
 
-All the efficiency indicators are obtained on the P100 provided by the Colab platform:
+All the efficiency indicators are obtained on the T4 provided by the Colab platform:
 ```
-    # We will prepare a notebook for training and reasoning about LMGCN 
+    # We will prepare a notebook for training and reasoning about EEDNet 
     # You can run on the Colab platform with one click.
     
     https://colab.research.google.com/
@@ -48,8 +48,8 @@ All the efficiency indicators are obtained on the P100 provided by the Colab pla
 ## Reference
 When building our codeWe referenced the repositories as follow:
  
-1. [Pidinet](https://github.com/cimerainbow/pidinet, "pidinet")
-2. [RCF](https://github.com/yun-liu/rcf, "rcf")
-3. [HED Implementation](https://github.com/xwjabc/hed, "hed")
+1. [Pidinet](https://github.com/cimerainbow/pidinet)
+2. [RCF](https://github.com/yun-liu/rcf)
+3. [HED Implementation](https://github.com/xwjabc/hed)
 
 
