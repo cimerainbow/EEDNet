@@ -1,5 +1,5 @@
-# LMGCN
-LMGCN: A Learnable Multi-Gradient Convolutional Network for Efficient Edge Detection
+# EEDNet
+EEDNet: A Bio-Inspired Efficient Edge Detection Network
 
 # 
 All results is evaluated on Python 3.8 with PyTorch 1.11.0+cuda113 and MATLAB R2018b.\
